@@ -1,7 +1,8 @@
 # Phoenix-express
 Pin and Deliver
 Phoenix Express Driver Mobile App
-Enterprise-grade React Native driver application for the Phoenix Express delivery platform. Built with Expo for rapid development and deployment to iOS and Android.
+Phoenix Express, a Phoenix Mobile Advertising LLC service. © 2026
+React Native driver application for the Phoenix Express delivery platform. Built with Expo for rapid development and deployment to iOS and Android.
 
 Features
 🚗 Delivery Management
@@ -15,7 +16,6 @@ Features
 	•	Real-time earnings tracking
 	•	Daily/weekly/monthly earnings breakdown
 	•	Instant payout requests to Chime account
-	•	Referral bonus tracking ($100 per driver)
 	•	Performance metrics and incentives
 
 📍 Location Tracking
@@ -169,34 +169,11 @@ API Connection Issues
 	•	Check network connectivity
 	•	Review API logs
 
-Revenue Model
-Driver Earnings
-	•	Base Fee: $5-$15 per delivery
-	•	Distance Bonus: $0.50 per mile
-	•	Tips: 100% to driver
-	•	Surge Pricing: Up to 2x during peak hours
-	•	Referral Bonus: $100 per referred driver
-
-Platform Revenue
-	•	Commission: 15-20% from deliveries
-	•	Sponsorships: $99-$499/month from dealerships
-	•	Advertising: CPM/CPC based
-	•	Lead Generation: $25-$100 per lead
-
 Support
 For issues or questions:
 
-	•	Email: support@phoenixexpress.com
-	•	Phone: 1-800-PHOENIX-1
+	•	Phone: 541-632-9043
 	•	In-app support chat
 
 License
-Proprietary - Phoenix Express © 2024
-
-Version History
-v1.0.0 (2024)
-	•	Initial release
-	•	Core delivery management
-	•	Real-time tracking
-	•	Earnings system
-	•	Profile management
+Phoenix Express, a Phoenix Mobile Advertising LLC service. © 2026
